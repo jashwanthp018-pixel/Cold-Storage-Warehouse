@@ -16,17 +16,7 @@ A Java-based warehouse management application built using Object-Oriented Progra
 - OOP: Inheritance, Interfaces, Encapsulation, and Method Overriding
 - Java Serialization for local data persistence
 
-## How to Run
 
-1. Install the Java JDK.
-2. Open the `src` folder in the terminal.
-3. Compile the program:
-
-   `javac *.java`
-
-4. Run the program:
-
-   `java Main`
 
 ## Project Status
 Developed as a Java learning and hackathon project.
