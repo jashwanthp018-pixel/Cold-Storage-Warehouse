@@ -19,7 +19,7 @@ A Java-based warehouse management application built using Object-Oriented Progra
 - **Java Concepts:** Interfaces, Method Overriding, Method Overloading, Constructors, Exception Handling
 - **Collections:** ArrayList
 - **Data Persistence:** Java Serialization
-- **Development Tools:** Visual Studio Code, Git, GitHub
+
 
 
 
